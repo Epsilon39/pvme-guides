@@ -52,7 +52,7 @@
 {
   "embed": {
   "title": "",
-    "description":"**[Customizable Block/Prefer Spreadsheet](https://docs.google.com/spreadsheets/d/1-HSin-Tqwbc1ZJHNcz9jg2xs6XMPu56dKyMFgYV-sYc/edit?gid=829497037#gid=829497037)**\n\n⬥ Click File > Make a copy top left for a personal copy.\n⬥ Toggle the Home page settings to match what you use.\n\u00a0\u00a0\u00a0\u00a0• The Misc section is for unlisted XP modifiers, e.g. enter 10 if you have an unlisted 10% XP buff.\n⬥ Enter your KPH in the colomn on the right of the Experience page.\n\u00a0\u00a0\u00a0\u00a0• You can select tasks to lock, force prefer/block, and that you use <:sacrificescrim:1023150750915899402> for here as well.\n⬥ Select the focus of your Slaying in the next page's dropdown menu and copy the displayed Block and Prefer list.",
+    "description":"**[Customizable Block/Prefer Spreadsheet](https://docs.google.com/spreadsheets/d/1-HSin-Tqwbc1ZJHNcz9jg2xs6XMPu56dKyMFgYV-sYc/edit?gid=829497037#gid=829497037)**\n\n⬥ Click File > Make a copy top left for a personal copy.\n⬥ Toggle the Home page settings to match what you use.\n\u00a0\u00a0\u00a0\u00a0• The Misc section is for unlisted XP modifiers, e.g. enter 10 if you have an unlisted 10% XP buff.\n⬥ Enter your KPH in the column on the right of the Experience page.\n\u00a0\u00a0\u00a0\u00a0• You can select tasks to lock, force prefer/block, and that you use <:sacrificescrim:1023150750915899402> for here as well.\n⬥ Select the focus of your Slaying in the next page's dropdown menu and copy the displayed Block and Prefer list.",
     "color": 39423
    }
 }
