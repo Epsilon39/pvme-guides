@@ -1,22 +1,66 @@
-## __Slayer Point Farming__ <:slayer:797896049548066857>
-.tag:slayerpointsfarming
-.
-⬥ This method consists of doing 9 slayer tasks with Jacquelyn <:jacquelyn:975284345369665577> (Lumbridge Slayer Master), followed by the 10th task with Laniakea <:laniakea:975284345411600426> (highest-level Slayer Master, requiring level 90 <:slayer:797896049548066857> and 120 <:combat:797896050370281523>).
+# Block and Prefer Lists
+*Note: The following block/prefer lists are just examples, it’s always more efficient to make your own.*
 
-⬥ **Requirements**
-    • Access to lunar spellbook: Spellbook swap (Lunar) <:SBSLunars:565726489467682816> + NPC Contact <:npccontact:975284195280695326>
-    • Your blocklist should look like as you are farming slayer points with Jacquelyn
-.
-.img:https://img.pvme.io/images/Vg7NUod.png
+⬥ It's assumed the player will slay Moss Golems for Creatures of the Lost Grove tasks and Ripper Demons for Demon cluster tasks, as well as bringing Binding Contracts <:bindingcontract:1073883118521557052> for GP.
 
 .
-    • This is done to take advantage of the 10th and 50th task points bonus (110 and 330 respectively, from Laniakea), while doing the nine tasks in between as fast as possible.
-        ⬩ Ideally, you set up the block list above that allows you to do all of Jacquelyn tasks inside the Lumbridge Catacombs, and use the NPC Contact spell to receive a new one without leaving the catacombs, speeding this up further.
-
-⬥ This method can net you an average of 660 slayer points/hour.
+**Block/Prefer List for XP:**
+.
+{
+  "embed": {
+    "fields": [
+       {
+        "name": "__Block__",
+        "value": "⬥ Airuts\n⬥ Black Demons\n⬥ Celestial Dragons\n⬥ Crystal Shapeshifters\n⬥ Dark Beasts\n⬥ Elves\n⬥ Order of Ascension members\n⬥ Steel Dragons",
+        "inline": true
+      },
+       {
+        "name": "__Prefer__",
+        "value": "⬥ Abyssal Demons\n⬥ Creatures of the Lost Grove\n⬥ Demons\n⬥ Dragons\n⬥ Gemstone Dragons\n⬥ Nightmare Creatures\n⬥ Ripper Demons\n⬥ Shadow Creatures",
+        "inline": true
+     }
+    ]
+  }
+}
+.embed:json
 
 .
-⬥ For more optimal point farming, we suggest using the following to help boost kill times.
-    • Higher level slayer mask <:maskoftheabyss:1004325563068071936>(Black demons, Airuts, Automatons etc)
-    • A magic or ranged weapon with Caroming 4 <:caroming4:791281588792590336>
+**Block/Prefer List for GP:**
 .
+{
+  "embed": {
+    "fields": [
+       {
+        "name": "__Block__",
+        "value": "⬥ Airuts\n⬥ Black Demons\n⬥ Celestial Dragons\n⬥ Aviansies\n⬥ Dark Beasts\n⬥ Gemstone Dragons\n⬥ Order of Ascension members\n⬥ Steel Dragons",
+        "inline": true
+      },
+       {
+        "name": "__Prefer__",
+        "value": "⬥ Soul Devourers\n⬥ Creatures of the Lost Grove\n⬥ Demons\n⬥ Living Wyverns\n⬥ Lava Strykewyrms\n⬥ Nightmare Creatures\n⬥ Ripper Demons\n⬥ Edimmu",
+        "inline": true
+     }
+    ]
+  }
+}
+.embed:json
+
+.
+### Personalized Spreadsheet
+⬥ Configuring the spreadsheet below is an easy way to find the best Block/Prefer list for your personal use.
+.
+{
+  "embed": {
+  "title": "",
+    "description":"**[Customizable Block/Prefer Spreadsheet](https://docs.google.com/spreadsheets/d/1-HSin-Tqwbc1ZJHNcz9jg2xs6XMPu56dKyMFgYV-sYc/edit?gid=829497037#gid=829497037)**\n\n⬥ Click File > Make a copy top left for a personal copy.\n⬥ Toggle the Home page settings to match what you use.\n\u00a0\u00a0\u00a0\u00a0• The Misc section is for unlisted XP modifiers, e.g. enter 10 if you have an unlisted 10% XP buff.\n⬥ Enter your KPH in the colomn on the right of the Experience page.\n\u00a0\u00a0\u00a0\u00a0• You can select tasks to lock, force prefer/block, and that you use <:sacrificescrim:1023150750915899402> for here as well.\n⬥ Select the focus of your Slaying in the next page's dropdown menu and copy the displayed Block and Prefer list.",
+    "color": 39423
+   }
+}
+.embed:json
+
+.
+### Additional Information
+.
+⬥ The player can boost up to 6 levels with the use of a Wilder Pie, this is especially helpful for killing higher leveled Slayer mobs during cluster tasks for better XP/GP rates, such as boosting to kill Moss Golems for the Creatures of the Lost Grove assignment.
+⬥ Laniakea's special assignment is very good for Slayer XP/points and should always be completed. Morvran's special assignment is mostly a waste of time, and should be toggled off after being completed once for the completionist cape requirement.
+⬥ Don't be afraid to skip undesired or bad assignments, as you can skip around half of the tasks given by Laniakea <:laniakea:975284345411600426> without losing many Slayer points overall, and they can be farmed with relative ease, making it unnecessary to force yourself to do any tasks you dislike.
